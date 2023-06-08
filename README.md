@@ -8,8 +8,8 @@ I am a Software Engineer and a CS master's student @Upenn.
 
 * 🌍  I'm based in Austin, TX
 * ✉️  You can contact me at [yleeprice@gmail.com](mailto:yleeprice@gmail.com)
-* 🧠  I'm learning React and node.js
-* ⚡  I went from 0 to Data Analyst and now to Software Engineer
+* 🧠  I'm learning Data Science & Backend Engineering
+* ⚡  I transitioned from being a novice to becoming a self-taught Data Analyst, and currently, I am enhancing my foundational understanding of Computer Science and Machine Learning through UPenn's MCIT program.
 
 ### Skills
 
