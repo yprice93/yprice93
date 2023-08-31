@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Austin, TX<br>✉️  You can contact me at yleeprice@gmail.com<br>🧠  I'm learning Applied Machine Learning<br>⚡  I transitioned from being a novice to becoming a self-taught Data Analyst, and currently, I am enhancing my foundational understanding of Computer Science and Machine Learning through UPenn's MCIT program.
+🌍  I'm based in Austin, TX<br>✉️  You can contact me at yleeprice@gmail.com<br>🧠  I'm learning Applied Machine Learning and Full Stack Development<br>⚡  I transitioned from being a novice to becoming a self-taught Data Analyst, and currently, I am enhancing my foundational understanding of Computer Science and Machine Learning through UPenn's MCIT program.
 
 
 ## 🌐 Socials:
