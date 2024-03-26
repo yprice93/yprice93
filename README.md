@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Lin and I'm a Senior Analyst, from GoDaddy</p>
+<p align="left">Hi, my name is Lin and I'm a Senior Analyst at GoDaddy</p>
 
 ###
 
